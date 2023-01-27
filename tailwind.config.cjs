@@ -13,14 +13,14 @@ module.exports = {
 
         white: '#FFFFFF',
         gray: '#A6A6A6',
-        black: '#00000'
+        black: '#000000'
        
 
       },
 
       fontFamily: {
         "dm-sans": ["DM Sans", "sans-serif"],
-        "playfair": ["Playfair Display", "sans-serif"]
+        "playfair": ["Playfair Display", "serif"]
       }
     },
   },
